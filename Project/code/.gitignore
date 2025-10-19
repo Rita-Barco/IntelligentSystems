@@ -1,0 +1,9 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment folders
+venv/
+env/
+*.egg-info/
