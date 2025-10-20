@@ -17,3 +17,6 @@ Project/code/test_realworld_features.npy
 Project/code/test_realworld_labels.npy
 
 Project/code/*.npy
+
+
+Project/code/mlp_garbage_classifier_1.pth
