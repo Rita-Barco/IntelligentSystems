@@ -20,3 +20,9 @@ Project/code/*.npy
 
 
 Project/code/mlp_garbage_classifier_1.pth
+
+
+# Ignore virtual environments
+torch-gpu/
+venv/
+.env/
