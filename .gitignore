@@ -1,0 +1,19 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment folders
+venv/
+env/
+*.egg-info/
+
+# Ignore large feature files
+Project/code/train_features.npy
+Project/code/train_labels.npy
+Project/code/test_studio_features.npy
+Project/code/test_studio_labels.npy
+Project/code/test_realworld_features.npy
+Project/code/test_realworld_labels.npy
+
+Project/code/*.npy
