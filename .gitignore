@@ -19,8 +19,9 @@ Project/code/test_realworld_labels.npy
 Project/code/*.npy
 
 
-Project/code/mlp_garbage_classifier_1.pth
+Project/code/mlpSIMPLE_modelweights.pth
 
+Project/code/mlpIMPROVED_modelweights.pth
 
 # Ignore virtual environments
 torch-gpu/
